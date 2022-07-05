@@ -1,5 +1,7 @@
 # Parks Modpack
 
+***DISCLAIMER: THIS GITHUB PAGE IS STILL VERY NEW, THERE ARE MANY REMNANTS OF FABULOUSLY OPTIMIZEDS FILES ETC, THESE ARE NOT MADE BY ME AND FULL CREDIT TO THE FABULOUSLY OPTIMIZED TEAM. I AM WORKING ON REMOVING ALL THIS BUT FOR THE TIME BEING PLEASE DONT MIND IT***
+
 A simple modpack for people who are used to having Forge and OptiFine and are curious to see what equivalents Fabric has to offer. You could consider this modpack a "starting point" to optimize your game before adding more functional mods or you could just play this as if it was vanilla - the choice is yours. 
 
 The pack only adds performance and graphics enhancements to the client, so **it works on every world and server**.
