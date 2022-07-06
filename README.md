@@ -10,23 +10,6 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 * [![Modrinth](https://img.shields.io/modrinth/dt/parksmodpack?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/parksmodpack)
 
-
-<details>
-  <summary>Alternative downloads</summary>
-
-_These downloads do not yet support the modpack or the mods :(_
-placeholder
-
-</details>
-  
-
-
-placeholder
-
-## Reviews
-
-placeholder
-
 ## Included Mods
 ill do this later
 ## Help
