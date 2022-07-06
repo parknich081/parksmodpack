@@ -8,7 +8,7 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 ## Downloads
 
-* [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized)
+* [![Modrinth](https://img.shields.io/modrinth/dt/parksmodpack?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized)
 
 Supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
 
