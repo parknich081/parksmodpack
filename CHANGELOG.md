@@ -1,5 +1,4 @@
-# Fabulously Optimized changelog
-This is the changelog for the Fabric modpack(https://www.curseforge.com/minecraft/modpacks/parksmodpack).
+# Changelog
 
 ## 1.19
 
